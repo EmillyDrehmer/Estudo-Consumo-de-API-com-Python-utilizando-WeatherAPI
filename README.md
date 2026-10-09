@@ -1,0 +1,1 @@
+# Estudo-Consumo-de-API-com-Python-utilizando-WeatherAPI
